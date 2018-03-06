@@ -5,15 +5,14 @@
 When first accessing the website it redirects to Home page.
 
 ### Important features in the Home page are:
+1. Search bar: you can select to search by all, tittle or author.
 <dl>
-  <dt>1. Search bar: you can select to search by all, tittle or author.</dt>
   <dd>1.1. In the search result, click on a book to show the book details.</dd>
   <dd>1.2 The details contain: book description, user reviews and rating and the add to cart button.</dd>
   <dd>1.3 Books can be added to the shopping cart anytime, even if not logged in.</dd>
   <dd>1.4 A logged in user can review and rate books.</dd>
-  
-  <dt>2. Advanced Searched: You can search by title, author, category, and price range.</dt>
 </dl>
+2. Advanced Searched: You can search by title, author, category, and price range.
 
 ### Login Page:
 
